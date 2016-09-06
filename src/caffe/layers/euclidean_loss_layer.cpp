@@ -1,6 +1,6 @@
 #include <vector>
 
-#include "caffe/loss_layers.hpp"
+#include "caffe/layers/euclidean_loss_layer.hpp"
 #include "caffe/util/math_functions.hpp"
 
 #include <opencv2/opencv.hpp>

@@ -1,8 +1,6 @@
 #include <vector>
 
-#include "caffe/data_layers.hpp"
-#include <iostream>
-using namespace std;
+#include "caffe/layers/base_data_layer.hpp"
 
 namespace caffe {
 
