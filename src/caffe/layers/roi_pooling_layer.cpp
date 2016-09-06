@@ -14,7 +14,7 @@
 #include "caffe/blob.hpp"
 #include "caffe/common.hpp"
 #include "caffe/layer.hpp"
-#include "caffe/vision_layers.hpp"
+#include "caffe/layers/roi_pooling_layer.hpp"
 #include "caffe/proto/caffe.pb.h"
 
 using std::max;

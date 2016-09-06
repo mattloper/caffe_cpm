@@ -404,8 +404,8 @@ message LayerParameter {
   optional ThresholdParameter threshold_param = 128;
   optional TileParameter tile_param = 138;
   optional WindowDataParameter window_data_param = 129;
-  optional CPMDataParameter cpmdata_param = 140;
-  optional ROIPoolingParameter roi_pooling_param = 141;
+  optional CPMDataParameter cpmdata_param = 147;
+  optional ROIPoolingParameter roi_pooling_param = 148;
 }
 
 // Message that stores parameters used to apply transformation

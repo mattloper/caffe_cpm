@@ -7,7 +7,7 @@
 #include <string>
 
 #include "caffe/common.hpp"
-#include "caffe/data_layers.hpp"
+#include "caffe/layers/cpm_data_layer.hpp"
 #include "caffe/layer.hpp"
 #include "caffe/proto/caffe.pb.h"
 #include "caffe/util/benchmark.hpp"
